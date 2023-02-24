@@ -1,0 +1,10 @@
+Grading at 09/28/2022:13:32:44.719764
+For commit ID fde52a22c3743c3d0404d9772abd86cdd2d1d999
+Grading at Wed Sep 28 21:32:43 CST 2022
+Your file matched the expected output
+Your output matched what we expected
+Attempting to compile test.c
+  - Valgrind was clean (no errors, no memory leaks)
+valgrind was clean
+
+Overall Grade: A

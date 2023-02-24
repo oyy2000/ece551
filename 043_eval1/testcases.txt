@@ -1,0 +1,34 @@
+#error
+printCountries 1_char_after_population.csv
+printCountries 1_char_before_population.csv
+printCountries 1_comma_before_population.csv
+printCountries 1_large_population.csv
+printCountries 1_name_too_long.csv
+printCountries 1_name_with_number.csv
+printCountries 1_negtive_population.csv
+printCountries 1_no_endline.csv
+printCountries 1_no_population.csv
+printCountries 1_none.csv
+printCountries 1_normal.csv
+printCountries 1_population_all_chars.csv
+printCountries 1_space_before_popul.csv
+printCountries
+
+printDailyMax population.csv
+
+#success
+printCountries population.csv
+printCountries 1_name_with_number.csv
+printCountries 1_negtive_population.csv
+printCountries 1_no_endline.csv
+printCountries 1_none.csv
+printCountries 1_normal.csv
+printCountries 1_space_before_popul.csv
+
+printRunningAvg population.csv daily_cases.csv
+printCumulative population.csv daily_cases.csv
+
+printDailyMax population.csv daily_small.csv
+printDailyMax population.csv daily_cases.csv
+
+

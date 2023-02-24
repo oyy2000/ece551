@@ -1,0 +1,29 @@
+aaaaa aaaaa
+aaaaa bbbbb
+aaaaa bbbbc
+aaaaa bbbcc
+aaaaa bbccc
+aaaaa bcccc
+aaabb bbbbc
+aabbb bbbbc
+aaaaa aaaa 
+aaaab aaaa 
+aaaa aaaaa
+aaaa aaaab 
+aaaaa aaaaab
+aaaaaa aaaaaa
+aaaaaa bbbbbb
+aaaaaa bbcccc
+adbbc dbcda
+1 1 1
+1234 1
+1234 22
+1224 344
+12345 12345
+123 00
+1 1
+0 1
+0
+
+
+

@@ -1,0 +1,109 @@
+Grading at 09/17/2022:14:36:48.304675
+For commit ID ac54b6c01f463521767b272efda97ddff47037d7
+Grading at Sat Sep 17 22:36:47 CST 2022
+**Testing broken implementation 10 **
+-------------------------------------
+
+expect 3, got 3
+expect 4, got 4
+expect 0, got 0
+expect 1, got 1
+expect 1, got 1
+expect 5, got 5
+expect 2, got 1
+Exit with error!
+
+**Testing broken implementation 11 **
+-------------------------------------
+
+expect 3, got 3
+expect 4, got 5
+Exit with error!
+
+**Testing broken implementation 1 **
+-------------------------------------
+
+expect 3, got 3
+expect 4, got 4
+expect 0, got 0
+expect 1, got 1
+expect 1, got 2
+Exit with error!
+
+**Testing broken implementation 2 **
+-------------------------------------
+
+expect 3, got 3
+expect 4, got 2
+Exit with error!
+
+**Testing broken implementation 3 **
+-------------------------------------
+
+expect 3, got 3
+expect 4, got 4
+expect 0, got 0
+expect 1, got 1
+expect 1, got 1
+expect 5, got 5
+expect 2, got 2
+expect 4, got 5
+Exit with error!
+
+**Testing broken implementation 4 **
+-------------------------------------
+
+expect 3, got 3
+expect 4, got 4
+expect 0, got 1
+Exit with error!
+
+**Testing broken implementation 5 **
+-------------------------------------
+
+expect 3, got 5
+Exit with error!
+
+**Testing broken implementation 6 **
+-------------------------------------
+
+expect 3, got 3
+expect 4, got 4
+expect 0, got 0
+expect 1, got 0
+Exit with error!
+
+**Testing broken implementation 7 **
+-------------------------------------
+
+expect 3, got 18446744073709551615
+Exit with error!
+
+**Testing broken implementation 8 **
+-------------------------------------
+
+expect 3, got 1
+Exit with error!
+
+**Testing broken implementation 9 **
+-------------------------------------
+
+expect 3, got 3
+expect 4, got 2
+Exit with error!
+
+**Testing correct implementation **
+-------------------------------------
+
+expect 3, got 3
+expect 4, got 4
+expect 0, got 0
+expect 1, got 1
+expect 1, got 1
+expect 5, got 5
+expect 2, got 2
+expect 4, got 4
+
+All test programs were handled correctly
+
+Overall Grade: PASSED

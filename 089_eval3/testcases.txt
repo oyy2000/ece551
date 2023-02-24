@@ -1,0 +1,7 @@
+#error
+cyoa-step4 4story_with_two_win_path_for_same_page
+
+
+#success
+
+

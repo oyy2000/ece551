@@ -1,0 +1,6 @@
+animal:duck
+animal:dog
+animal:duck
+people:oyy
+people:yzy
+people:oyy

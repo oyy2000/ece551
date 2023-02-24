@@ -1,0 +1,66 @@
+Grading at 09/11/2022:08:17:12.530173
+For commit ID 10397964a09151dbc1697f14eb221e1e7fbaee1d
+Grading at Sun Sep 11 16:17:11 CST 2022
+**Testing broken implementation 10 **
+-------------------------------------
+
+Exit with an error in power(5,3)!
+
+**Testing broken implementation 11 **
+-------------------------------------
+
+Exit with an error in power(888888,1)!
+
+**Testing broken implementation 1 **
+-------------------------------------
+
+Exit with an error in power(5,3)!
+
+**Testing broken implementation 2 **
+-------------------------------------
+
+Exit with an error in power(5,3)!
+
+**Testing broken implementation 3 **
+-------------------------------------
+
+Exit with an error in power(0,0)!
+
+**Testing broken implementation 4 **
+-------------------------------------
+
+Exit with an error in power(888888,1)!
+
+**Testing broken implementation 5 **
+-------------------------------------
+
+Exit with an error in power(5,3)!
+
+**Testing broken implementation 6 **
+-------------------------------------
+
+Exit with an error in power(5,3)!
+
+**Testing broken implementation 7 **
+-------------------------------------
+
+Exit with an error in power(5,3)!
+
+**Testing broken implementation 8 **
+-------------------------------------
+
+Exit with an error in power(5,3)!
+
+**Testing broken implementation 9 **
+-------------------------------------
+
+Exit with an error in power(5,3)!
+
+**Testing correct implementation **
+-------------------------------------
+
+
+All tests were ok.
+
+
+Overall Grade: PASSED
